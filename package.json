@@ -1,11 +1,11 @@
 {
-  "name": "untitled",
+  "name": "johnny-blog",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build --prod --bh /blog/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
